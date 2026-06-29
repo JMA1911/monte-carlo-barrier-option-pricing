@@ -1,6 +1,6 @@
 # Monte Carlo Barrier Option Pricing
 
-## MSc Financial Mathematics – Computational Finance Coursework (University of Leeds)
+## MSc Financial Mathematics – Computational Finance Project (University of Leeds)
 
 This repository contains a Python implementation and accompanying report for pricing a down-and-out European barrier call option using Monte Carlo simulation.
 
